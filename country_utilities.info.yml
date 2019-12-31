@@ -1,0 +1,5 @@
+name: Country Utilities
+type: module
+description:  Utility class to help convert between country codes.
+package: Utilities
+core: 8.x
